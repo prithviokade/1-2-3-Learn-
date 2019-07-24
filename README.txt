@@ -1,3 +1,5 @@
+Demo: https://youtu.be/Cjie-SAgxnY
+
 1 2 3 Learn! is an interactive learning game for young children, to help them learn math, focus on handwriting, and improve analytical skills. The main module is the Bubble Game, where bubbles containing addition, subtraction, and multiplication problems fall from the top of the screen. The user draws the answer which, if correct, results in the bubble popping. If the user needs to work on a certain topic, there is an algorithm such that he or she will receive more questions regarding that specific topic and be asked questions he or she previously got wrong. There are two additional modules, as well. One allows the user to choose a topic and practice with more advanced problems in addition, subtraction, multiplication, and basic division in the style of flashcards. The other presents the user with an adventure and a task that he or she must complete, giving the user a more real life application of these mathematical topics. The story mode also introducing the concept of fractions, addition with negative numbers, and computation with more than two numbers. 
 
 How to run:
